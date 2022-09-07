@@ -1,0 +1,166 @@
+body {
+  background-color: #593780;
+}
+body .main {
+  margin-top: 30vh;
+  text-align: center;
+}
+body .main h1 {
+  color: white;
+  font-size: 32pt;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+body .main a > button {
+  text-align: center;
+  display: inline-block;
+  outline: 0;
+  margin-top: 5vh;
+  text-align: center;
+  cursor: pointer;
+  padding: 1.83vh 2.5vh;
+  border: 0;
+  color: black;
+  font-size: 2vh;
+  border: 2px solid transparent;
+  border-color: white;
+  color: white;
+  background: transparent;
+  font-weight: 800;
+  line-height: 3vh;
+  transition: background, color 0.1s ease-in-out;
+}
+body .main a > button:hover {
+  background-color: white;
+  color: #11173b;
+}
+
+body {
+  background-color: #593780;
+}
+body .community {
+  position: absolute;
+  margin-top: 20vh;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  width: 60vw;
+  height: 20vw;
+  text-align: center;
+  color: white;
+}
+body .community h1 {
+  font-size: 34pt;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+body div > a > button {
+  text-align: center;
+  display: inline-block;
+  outline: 0;
+  margin-top: 5vh;
+  text-align: center;
+  cursor: pointer;
+  padding: 1.83vh 2.5vh;
+  border: 0;
+  color: black;
+  font-size: 2vh;
+  border: 2px solid transparent;
+  border-color: white;
+  color: white;
+  background: transparent;
+  font-weight: 800;
+  line-height: 3vh;
+  transition: background, color 0.1s ease-in-out;
+}
+body div > a > button:hover {
+  background-color: white;
+  color: #11173b;
+}
+
+body {
+  background-color: #593780;
+}
+body .quote {
+  position: absolute;
+  margin-top: 20vh;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  width: 60vw;
+  height: 20vw;
+  text-align: center;
+  color: white;
+}
+body .quote h1 {
+  font-size: 18pt;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+body .quote h2 {
+  font-size: 14pt;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  font-style: italic;
+}
+body .quote a > button {
+  text-align: center;
+  display: inline-block;
+  outline: 0;
+  margin-top: 5vh;
+  text-align: center;
+  cursor: pointer;
+  padding: 1.83vh 2.5vh;
+  border: 0;
+  color: black;
+  font-size: 2vh;
+  border: 2px solid transparent;
+  border-color: white;
+  color: white;
+  background: transparent;
+  font-weight: 800;
+  line-height: 3vh;
+  transition: background, color 0.1s ease-in-out;
+}
+body .quote a > button:hover {
+  background-color: white;
+  color: #11173b;
+}
+
+body {
+  background-color: #593780;
+}
+body .streams {
+  position: absolute;
+  margin-top: 20vh;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  width: 60vw;
+  height: 20vw;
+  text-align: center;
+  color: white;
+  font-size: 22pt;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+body .streams a > button {
+  text-align: center;
+  display: inline-block;
+  outline: 0;
+  margin-top: 5vh;
+  text-align: center;
+  cursor: pointer;
+  padding: 1.83vh 2.5vh;
+  border: 0;
+  color: black;
+  font-size: 2vh;
+  border: 2px solid transparent;
+  border-color: white;
+  color: white;
+  background: transparent;
+  font-weight: 800;
+  line-height: 3vh;
+  transition: background, color 0.1s ease-in-out;
+}
+body .streams a > button:hover {
+  background-color: white;
+  color: #11173b;
+}/*# sourceMappingURL=styles.css.map */
