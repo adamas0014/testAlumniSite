@@ -4,7 +4,7 @@ body{
     .main {
         margin-top: 30vh;
         text-align: center;
-        
+
         h1{
             color: white;
             font-size: 32pt;
@@ -36,6 +36,12 @@ body{
                 background-color: white;
                 color: #11173bff;
             }
+
+        @media (max-width: $mobile-view){
+            h1{
+                font-size: 22pt;
+            }
+        }
     }
 
     

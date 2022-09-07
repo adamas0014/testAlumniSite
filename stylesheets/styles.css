@@ -34,6 +34,11 @@ body .main a > button:hover {
   background-color: white;
   color: #11173b;
 }
+@media (max-width: 600px) {
+  body .main h1 {
+    font-size: 22pt;
+  }
+}
 
 body {
   background-color: #593780;
@@ -124,6 +129,17 @@ body .quote a > button:hover {
   background-color: white;
   color: #11173b;
 }
+@media (max-width: 600px) {
+  body .quote {
+    margin-top: 5vh;
+  }
+  body .quote h1 {
+    font-size: 12pt;
+  }
+  body .quote h2 {
+    font-size: 10pt;
+  }
+}
 
 body {
   background-color: #593780;
@@ -163,4 +179,9 @@ body .streams a > button {
 body .streams a > button:hover {
   background-color: white;
   color: #11173b;
+}
+@media (max-width: 600px) {
+  body .streams h1 {
+    font-size: 18pt;
+  }
 }/*# sourceMappingURL=styles.css.map */

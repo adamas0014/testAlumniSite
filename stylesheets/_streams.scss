@@ -39,7 +39,12 @@ body{
                 background-color: white;
                 color: #11173bff;
             }
-
+        
+        @media (max-width: $mobile-view){
+            h1{
+                font-size: 18pt;;
+            }
+        }
     }
    
     
