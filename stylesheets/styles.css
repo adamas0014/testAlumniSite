@@ -2,7 +2,7 @@ body {
   background-color: #593780;
 }
 body .main {
-  margin-top: 30vh;
+  margin-top: 25vh;
   text-align: center;
 }
 body .main h1 {
@@ -45,7 +45,7 @@ body {
 }
 body .community {
   position: absolute;
-  margin-top: 20vh;
+  margin-top: 5vh;
   margin-left: 20vw;
   margin-right: 20vw;
   width: 60vw;
@@ -54,7 +54,7 @@ body .community {
   color: white;
 }
 body .community h1 {
-  font-size: 34pt;
+  font-size: 28pt;
   font-family: "Courier New", Courier, monospace;
   text-align: center;
 }
