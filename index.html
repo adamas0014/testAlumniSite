@@ -12,11 +12,20 @@
 <body>
     
     <div class="main">
-        <h1>Welcome to the B.Tech. <br />Alumni Community!</h1>
-        <a href="./community.html"><button>Next</button></a>
+        <h1 class="welcome">Welcome to the B.Tech. <br />Alumni Community!</h1>
+        <br />
+        <h1 class="kit">We'd like to keep in touch :)</h1>
+
+        <a class = "link" href="https://discord.gg/6mjHpmPzyV"><button>Discord Community</button></a>
+        <br />
+        <a class = "link" href="https://discord.gg/6mjHpmPzyV"><button style="font-size: 3.6vh;">Alumni Night Interest Form</button></a>
     </div>
     <script>
-        gsap.from('.main', {opacity: 0, duration: 2, y: '-5vh'})
+        gsap.from('.welcome', {opacity: 0, duration: .5, y: '-5vh'})
+        gsap.from('.kit', {opacity: 0, duration: .5, y: '-5vh', delay: .5})
+        gsap.from('.link', {opacity: 0, duration: 2, delay: 1})
     </script>
     </body>
 </html>
+
+
